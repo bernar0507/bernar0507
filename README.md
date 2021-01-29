@@ -1,4 +1,4 @@
-Hi there 👋
+Greetings 👨‍💻
 
     🎓 I’m currently finalist of Bioinformatics Bachelor's Degree
     
