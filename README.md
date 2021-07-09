@@ -8,4 +8,3 @@ Greetings 👨‍💻
     
     📥 Email: b.augusto5@outlook.com
     
-    💻 Looking for an internship related with Data Science
