@@ -1,6 +1,6 @@
 Greetings 👨‍💻
 
-    🎓 Finalist Student of Bioinformatics Bachelor's Degree
+    🎓 Bioinformatics Bachelor's Degree
     
     ☎️ Phone: +351 933 080 731
     
