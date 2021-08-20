@@ -32,7 +32,7 @@ Currenty I'm enrolled in Data Science Master's degree at ISCTE.
   <a href = "mailto:b.augusto5@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bernar0507" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
-    ![Snake animation](https://github.com/bernar0507/bernar0507/blob/output/github-contribution-grid-snake.svg)
+    https://raw.githubusercontent.com/bernar0507/bernar0507/855f377f69ac9c2e255561d9182275bbfb7cba5f/github-contribution-grid-snake.svg
 
 </div>
      
