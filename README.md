@@ -35,6 +35,6 @@ Currenty I'm enrolled in Data Science Master's degree at ISCTE.
 </div>
      
    <div>   
-       ![Snake animation](https://raw.githubusercontent.com/bernar0507/bernar0507/855f377f69ac9c2e255561d9182275bbfb7cba5f/github-contribution-grid-snake.svg)
+       https://raw.githubusercontent.com/bernar0507/bernar0507/855f377f69ac9c2e255561d9182275bbfb7cba5f/github-contribution-grid-snake.svg
     
 </div>
