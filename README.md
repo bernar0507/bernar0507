@@ -2,20 +2,6 @@
 Bachelor's degree in Bioinformatics finished in July 2021 at IPS.
 
 Currenty I'm enrolled in Data Science Master's degree at ISCTE.
-
-
-
-
-    
-    
-<div>
-  <a href="https://github.com/bernar0507">
-  <img height="180em" width=410 src="https://github-readme-stats.vercel.app/api?username=bernar0507&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-      
-      
-  <img height="180em" width=410 src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernar0507&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
     
 ##
     
